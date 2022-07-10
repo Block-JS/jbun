@@ -1,4 +1,3 @@
-package com.violeth.jbun;
+package com.violeth.jbun
 
-public class JBun {
-}
+class JBun 
